@@ -460,6 +460,9 @@ footer{
   margin-top: 5rem;
   text-align: left;
  }
+ .link-section div:first-child{
+  display: none;
+ }
  footer{
   margin-top: 2rem;
   display: flex;
