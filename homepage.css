@@ -6,7 +6,7 @@
  font-family: "Lora", serif;
 }
 .homepage-header{
- background: url('/images/mainbg\ \(1\).png');
+ background: url('mainbg\ \(1\).png');
  background-position: center;
  background-size: cover;
  background-repeat: no-repeat;
@@ -91,7 +91,7 @@
  top: 18.5rem;
 }
 main{
- background: url('/images/Gradient.png');
+ background: url('Gradient.png');
 }
 .aesthetics{
  display: flex;
