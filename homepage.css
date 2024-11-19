@@ -298,6 +298,9 @@ footer{
 /* media Query */
 
 @media (min-width: 300px) and (max-width: 720px){
+ body{
+  overflow: hidden;
+ }
  .headbar{
   padding: 1rem;
  }
