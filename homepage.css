@@ -323,7 +323,7 @@ footer{
   width: 1.3rem;
   position: absolute;
   right: 7rem;
-  top: 18.5rem;
+  top: 20.5rem;
  }
  .aesthetics{
   display: flex;
@@ -349,7 +349,7 @@ footer{
   font-size: 25px;
  }
  .designs section{
-  margin-left: -6.9rem;
+  margin-left: -6rem;
   padding-right: 1rem;
  }
  .designItems{
@@ -408,7 +408,7 @@ footer{
   font-size: 25px;
  }
  #bedsidelamp{
-  margin-top: 14rem;
+  margin-top: 15rem;
   margin-left: -4.5rem;
   height: 15rem;
   width: 15rem;
@@ -430,7 +430,7 @@ footer{
   margin-top: 2rem;
   font-size: 20px;
   width: 25rem;
-  margin-left: -2.5rem;
+  margin-left: -2rem;
  }
  .experience-desc{
   width: 20rem;
