@@ -457,14 +457,14 @@ footer{
   margin-top: 5rem;
   text-align: left;
  }
- .link-section div:first-child{
+ #link-desc{
   display: none;
  }
  footer{
   margin-top: 2rem;
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  gap: 1rem;
   font-size: small;
  }
  
